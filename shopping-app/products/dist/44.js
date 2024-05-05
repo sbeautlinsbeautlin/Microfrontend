@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkproducts=self.webpackChunkproducts||[]).push([[44],{60044:(e,c,r)=>{r.r(c);var o=r(26302),t=r.n(o);let u="";for(let e=0;e<5;e++)u+=`<div>${t().commerce.productName()}</div>`;console.log(u),document.querySelector("#product-list").innerHTML=u}}]);

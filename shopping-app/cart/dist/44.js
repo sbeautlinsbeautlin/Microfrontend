@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcart=self.webpackChunkcart||[]).push([[44],{60044:(e,r,t)=>{t.r(r);var a=t(26302);const c=`<div style="border: 1px solid black; padding: 10px; background-color: #f0f0f0;">You have ${t.n(a)().datatype.number(20)} items in your cart!`;document.querySelector("#cart-list").innerHTML=c}}]);

@@ -1,6 +1,7 @@
 {
   "name": "container",
   "version": "1.0.0",
+  "homepage": "http://localhost/container/",
   "description": "",
   "main": "index.js",
   "scripts": {

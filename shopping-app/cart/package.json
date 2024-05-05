@@ -1,6 +1,7 @@
 {
   "name": "cart",
   "version": "1.0.0",
+  "homepage": "http://localhost/cart/",
   "description": "",
   "main": "index.js",
   "scripts": {

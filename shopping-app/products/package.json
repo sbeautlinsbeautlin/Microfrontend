@@ -1,6 +1,7 @@
 {
   "name": "products",
   "version": "1.0.0",
+  "homepage": "http://localhost/products/",
   "description": "",
   "main": "index.js",
   "scripts": {
